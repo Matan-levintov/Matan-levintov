@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matan-levintov
-- 👀 I’m interested in Data Science and Analysis 
-- 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on Data Science and Analysis 
+- 👀 I’m interested in Economics, Data Science and Analysis 
+- 🌱 I’m currently a Masters student in Economics
+- 💞️ I’m looking to collaborate on Economic, Data Science and Analysis Projects
 
 
 <!---
